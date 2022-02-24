@@ -13,7 +13,10 @@
   <local-check-config name="T-TyreCheckstyleDefinitivo" location="C:\Users\rocco\Desktop\is\internal_config_1645694131115.xml" type="external" description="">
     <additional-data name="protect-config-file" value="false"/>
   </local-check-config>
-  <fileset name="all" enabled="true" check-config-name="T-TyreCheckstyleDefinitivo" local="true">
+  <local-check-config name="FileFinal" location="C:\Users\Felice\Downloads\internal_config_1645694131115 (1).xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <fileset name="all" enabled="true" check-config-name="FileFinal" local="true">
     <file-match-pattern match-pattern="." include-pattern="true"/>
   </fileset>
 </fileset-config>
