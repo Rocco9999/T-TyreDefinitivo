@@ -1,5 +1,9 @@
 package beanOrdine;
 
+
+/**
+ * composizione class.
+ */
 public class ComposizioneBean {
 	
 	
