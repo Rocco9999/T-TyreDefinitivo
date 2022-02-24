@@ -12,9 +12,17 @@ import beanProdotto.CartBean;
 import beanProdotto.ProductBean;
 import database. DriverManagerConnectionPool;
 
+
 public class CartDAOImpl implements CartDAO {
 	
-	
+
+	/**
+	 * Questo metodo ritorna tutti i prodotti del carrello all'interno di un carrello
+	 * di un determinato utente
+	 * @param cartproducts Array of products
+	 * @param selectSQL query richiesto 
+	 *
+	 */
 	public ArrayList<CartBean> doRetrieveAllBycart(int codice_utente) throws SQLException {
 		Connection connection = null;
 		PreparedStatement preparedStatement = null;
