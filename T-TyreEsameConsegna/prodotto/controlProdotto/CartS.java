@@ -22,7 +22,7 @@ import daoProdotto.ProductDAOImpl;
 
 
 /**
- * Servlet implementation class CartSS
+ * Servlet implementation class CartSProva
  */
 @WebServlet("/CartS")
 
