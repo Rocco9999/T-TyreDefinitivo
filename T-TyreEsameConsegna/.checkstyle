@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fileset-config file-format-version="1.2.0" simple-config="true" sync-formatter="false">
+  <local-check-config name="Check-style" location="C:\Users\Felice\Downloads\mypersonaltrainer-main\mypersonaltrainer-main\src\main\resources\sun-checkstyle.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <local-check-config name="T-TyreCheckStyle" location="C:\Users\Felice\Downloads\internal_config_1645694131115.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <local-check-config name="Check-StyleFinal" location="C:\Users\Felice\Downloads\internal_config_1645694131115 (1).xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <local-check-config name="T-TyreCheckstyleDefinitivo" location="C:\Users\rocco\Desktop\is\internal_config_1645694131115.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <fileset name="all" enabled="true" check-config-name="T-TyreCheckstyleDefinitivo" local="true">
+    <file-match-pattern match-pattern="." include-pattern="true"/>
+  </fileset>
+</fileset-config>

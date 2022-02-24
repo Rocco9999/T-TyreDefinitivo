@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                            
+    
+    
+    
+    
+    
+    <wb-module deploy-name="T-TyreDefinitivo">
+                                                        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/account"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/agenda"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/prodotto"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/ordine"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/database"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/Test"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/account"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/agenda"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/ordine"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/prodotto"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/database"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Test"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                                                        
+        
+        
+        
+        
+        
+        <property name="java-output-path" value="/T-TyreDefinitivo/build/classes"/>
+                                
+        
+        
+        <property name="context-root" value="T-TyreDefinitivo"/>
+                                                    
+    
+    
+    
+    
+    
+    </wb-module>
+                        
+
+
+
+
+
+</project-modules>
