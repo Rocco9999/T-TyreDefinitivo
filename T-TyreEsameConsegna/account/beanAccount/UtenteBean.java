@@ -22,7 +22,9 @@ public class UtenteBean implements Serializable {
 
 	
 	
-	
+	/* 
+	 * 
+	 * */
 	public UtenteBean(String nome, String cognome, String telefono, String email, String password,int ID) {
 		super();
 		this.nome = nome;
